@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "6sQitjSAWRiADzwFy14F5l0soPT2XGhMHyFanbm0/zahDyx3W3qXEyhL0JHwyYFcHBnoOBL87jNXhPKo0XE7Vw==",
+  "success": true,
+  "projectFilePath": "/Users/spencerarnold/Desktop/HostingMultipleReactAspNetCore/HostingMultipleReactAspNetCore.csproj",
+  "expectedPackageFiles": [
+    "/Users/spencerarnold/.nuget/packages/microsoft.aspnetcore.nodeservices/5.0.0-preview.8.20414.8/microsoft.aspnetcore.nodeservices.5.0.0-preview.8.20414.8.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.aspnetcore.spaservices/5.0.0-preview.8.20414.8/microsoft.aspnetcore.spaservices.5.0.0-preview.8.20414.8.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/5.0.4/microsoft.aspnetcore.spaservices.extensions.5.0.4.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.configuration/5.0.0-preview.8.20407.11/microsoft.extensions.configuration.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.configuration.abstractions/5.0.0-preview.8.20407.11/microsoft.extensions.configuration.abstractions.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.configuration.binder/5.0.0-preview.8.20407.11/microsoft.extensions.configuration.binder.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.0-preview.8.20407.11/microsoft.extensions.dependencyinjection.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0-preview.8.20407.11/microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.fileproviders.abstractions/5.0.0/microsoft.extensions.fileproviders.abstractions.5.0.0.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.fileproviders.physical/5.0.0/microsoft.extensions.fileproviders.physical.5.0.0.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.filesystemglobbing/5.0.0/microsoft.extensions.filesystemglobbing.5.0.0.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.logging/5.0.0-preview.8.20407.11/microsoft.extensions.logging.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0-preview.8.20407.11/microsoft.extensions.logging.abstractions.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.logging.configuration/5.0.0-preview.8.20407.11/microsoft.extensions.logging.configuration.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.logging.console/5.0.0-preview.8.20407.11/microsoft.extensions.logging.console.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.options/5.0.0-preview.8.20407.11/microsoft.extensions.options.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.options.configurationextensions/5.0.0-preview.8.20407.11/microsoft.extensions.options.configurationextensions.5.0.0-preview.8.20407.11.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/microsoft.extensions.primitives/5.0.0/microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "/Users/spencerarnold/.nuget/packages/newtonsoft.json/12.0.2/newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
